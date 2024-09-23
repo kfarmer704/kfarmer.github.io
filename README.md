@@ -10,4 +10,4 @@ I Log in to Github Desktop Click on the "+" icon in the top left corner of the s
 ## Loving cooking and trying new reciepes 
 [Google] (https://tasty.co)  I love going to tasty to see the new reciepes of the month  They also have plenty of twist on what i called original reciepes that I learned cooking with my grandmother.  Its good to try out different culture reciepes instead of eating the same thing over and over.
 ## Movie critic
-- [Google] (https://www.imdb.com)  I love all different types of movies.  I call myself a critics but im not fully a critic I am terrified of horror movies so I stay far away from them.  This website keeps me informed of new releases coming to movie theaters as well as to dvd or streaming services.
+- [Google] (https://www.imdb.com)  I love all different types of movies.  I call myself a critics but im not fully a critic I am terrified of horror movies so I stay far away from them.  This website keeps me informed of new releases coming to movie theaters as well as to dvd or streaming services like Netflix, Hulu just to name a few.
