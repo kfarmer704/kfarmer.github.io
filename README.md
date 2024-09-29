@@ -11,3 +11,14 @@ I Log in to Github Desktop Click on the "+" icon in the top left corner of the s
 [Google] (https://tasty.co)  I love going to tasty to see the new reciepes of the month  They also have plenty of twist on what i called original reciepes that I learned cooking with my grandmother.  Its good to try out different culture reciepes instead of eating the same thing over and over.
 ## Movie critic
 - [Google] (https://www.imdb.com)  I love all different types of movies.  I call myself a critics but im not fully a critic I am terrified of horror movies so I stay far away from them.  This website keeps me informed of new releases coming to movie theaters as well as to dvd or streaming services like Netflix, Hulu just to name a few.
+flowchart TD;
+    Start[Start] --> InputRange[Input Min and Max Range];
+    InputRange --> GenerateNumber[Generate Random Number within Range];
+    GenerateNumber --> OutputNumber[Output the Random Number];
+    OutputNumber --> End[End]
+    graph TD;
+    Start[Start] --> InputRange[1 and 20];
+    InputRange --> GenerateNumber[Generate Random Number within Range];
+    GenerateNumber --> OutputNumber[Output the Random Number];
+    OutputNumber --> End[End]
+    Copy the flow chart and enter a random number ranging from 1-20. the flow chart will in return try to guess your number.
